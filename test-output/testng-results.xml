@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41" started-at="2021-06-18T21:32:59 SGT" finished-at="2021-06-18T21:32:59 SGT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41" started-at="2021-06-18T21:32:59 SGT" finished-at="2021-06-18T21:32:59 SGT">
+      <class name="First.Testing.StringOperation">
+        <test-method status="PASS" signature="revstring()[pri:0, instance:First.Testing.StringOperation@44c8afef]" name="revstring" duration-ms="9" started-at="2021-06-18T21:32:59 SGT" finished-at="2021-06-18T21:32:59 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- revstring -->
+      </class> <!-- First.Testing.StringOperation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
